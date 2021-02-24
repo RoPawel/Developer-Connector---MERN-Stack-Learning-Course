@@ -2,6 +2,6 @@
     "mongoURI": "mongodb+srv://Pawel:Pawel@devconnector.iuetz.mongodb.net/TestowaBaza?retryWrites=true&w=majority",
     "jwtSecret": "mysecrettoken",
     "githubClientId": "eeaac9d0f8163cc4de8b",
-    "githubSecret": "6b4132a4ee15702a5859ab791eb98237c7083373"
-
+    "githubSecret": "de4e2ad34835fed756e6dc9c181001e0464e2933",
+    "githubToken": "805fd29005b89229545a649451fd9c2c9af1daea"
 }
